@@ -1,0 +1,4 @@
+<INFO> 3-Oct-2018::14:18:08.725 centares confd[2741]: netconf id=28 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::15:58:14.377 centares confd[2741]: netconf id=29 new tcp session for user "etu" from ::1
+<INFO> 3-Oct-2018::15:58:37.951 centares confd[2741]: netconf id=29 close-session attrs: message-id="urn:uuid:8260e70b-bf43-4e04-8fbf-3547160ccb86"
+<INFO> 3-Oct-2018::15:58:37.951 centares confd[2741]: netconf id=29 sending rpc-reply, attrs: message-id="urn:uuid:8260e70b-bf43-4e04-8fbf-3547160ccb86"

@@ -1,0 +1,39 @@
+<INFO> 3-Oct-2018::14:11:07.350 centares confd[2527]: confd embedded apps in early_phase0: []
+<INFO> 3-Oct-2018::14:11:07.450 centares confd[2527]: confd mmap_schema handle_info got msg: timeout
+<INFO> 3-Oct-2018::14:11:07.463 centares confd[2527]: confd embedded apps in phase0: []
+<INFO> 3-Oct-2018::14:11:07.577 centares confd[2527]: devel-cdb init files found in ./confd-cdb: aaa_init.xml
+<INFO> 3-Oct-2018::14:11:07.604 centares confd[2527]: devel-cdb Compacted CDB journal file: 1 ms (87 nodes in memory, disk size 1.43 KiB -> 1.39 KiB)
+<INFO> 3-Oct-2018::14:11:07.608 centares confd[2527]: confd embedded apps in phase1: []
+<ERR> 3-Oct-2018::14:11:07.635 centares confd[2527]: devel-aaa Module "tailf-webui" in access rule "any-group/tailf-webui-user" does not exist - ignoring rule
+<INFO> 3-Oct-2018::14:11:07.665 centares confd[2527]: confd embedded apps in phase1_delayed: []
+<INFO> 3-Oct-2018::14:11:07.670 centares confd[2527]: confd embedded apps in phase2: []
+<INFO> 3-Oct-2018::14:11:36.692 centares confd[2575]: confd embedded apps in early_phase0: []
+<INFO> 3-Oct-2018::14:11:36.787 centares confd[2575]: confd mmap_schema handle_info got msg: timeout
+<INFO> 3-Oct-2018::14:11:36.800 centares confd[2575]: confd embedded apps in phase0: []
+<INFO> 3-Oct-2018::14:11:36.833 centares confd[2575]: devel-cdb Loaded oper data from ./confd-cdb/O.cdb (4 bytes data in 0.000s)
+<INFO> 3-Oct-2018::14:11:36.851 centares confd[2575]: devel-cdb Loaded schema file: ./confd-cdb/C.cdb (v3 from 6.4)
+<INFO> 3-Oct-2018::14:11:36.854 centares confd[2575]: devel-cdb Loaded configuration from ./confd-cdb/A.cdb (1.39 KiB data, 1 transaction in 0.000s)
+<INFO> 3-Oct-2018::14:11:36.889 centares confd[2575]: confd embedded apps in phase1: []
+<ERR> 3-Oct-2018::14:11:36.914 centares confd[2575]: devel-aaa Module "tailf-webui" in access rule "any-group/tailf-webui-user" does not exist - ignoring rule
+<INFO> 3-Oct-2018::14:11:36.927 centares confd[2575]: confd embedded apps in phase1_delayed: []
+<INFO> 3-Oct-2018::14:11:36.930 centares confd[2575]: confd embedded apps in phase2: []
+<INFO> 3-Oct-2018::14:12:53.527 centares confd[2622]: confd embedded apps in early_phase0: []
+<INFO> 3-Oct-2018::14:12:53.627 centares confd[2622]: confd mmap_schema handle_info got msg: timeout
+<INFO> 3-Oct-2018::14:12:53.640 centares confd[2622]: confd embedded apps in phase0: []
+<INFO> 3-Oct-2018::14:12:53.671 centares confd[2622]: devel-cdb Loaded oper data from ./confd-cdb/O.cdb (4 bytes data in 0.000s)
+<INFO> 3-Oct-2018::14:12:53.688 centares confd[2622]: devel-cdb Loaded schema file: ./confd-cdb/C.cdb (v3 from 6.4)
+<INFO> 3-Oct-2018::14:12:53.690 centares confd[2622]: devel-cdb Loaded configuration from ./confd-cdb/A.cdb (1.39 KiB data, 1 transaction in 0.000s)
+<INFO> 3-Oct-2018::14:12:53.726 centares confd[2622]: confd embedded apps in phase1: []
+<ERR> 3-Oct-2018::14:12:53.758 centares confd[2622]: devel-aaa Module "tailf-webui" in access rule "any-group/tailf-webui-user" does not exist - ignoring rule
+<INFO> 3-Oct-2018::14:12:53.770 centares confd[2622]: confd embedded apps in phase1_delayed: []
+<INFO> 3-Oct-2018::14:12:53.774 centares confd[2622]: confd embedded apps in phase2: []
+<INFO> 3-Oct-2018::14:17:58.941 centares confd[2741]: confd embedded apps in early_phase0: []
+<INFO> 3-Oct-2018::14:17:59.031 centares confd[2741]: confd mmap_schema handle_info got msg: timeout
+<INFO> 3-Oct-2018::14:17:59.045 centares confd[2741]: confd embedded apps in phase0: []
+<INFO> 3-Oct-2018::14:17:59.076 centares confd[2741]: devel-cdb Loaded oper data from ./confd-cdb/O.cdb (4 bytes data in 0.000s)
+<INFO> 3-Oct-2018::14:17:59.094 centares confd[2741]: devel-cdb Loaded schema file: ./confd-cdb/C.cdb (v3 from 6.4)
+<INFO> 3-Oct-2018::14:17:59.096 centares confd[2741]: devel-cdb Loaded configuration from ./confd-cdb/A.cdb (1.39 KiB data, 1 transaction in 0.000s)
+<INFO> 3-Oct-2018::14:17:59.129 centares confd[2741]: confd embedded apps in phase1: []
+<ERR> 3-Oct-2018::14:17:59.156 centares confd[2741]: devel-aaa Module "tailf-webui" in access rule "any-group/tailf-webui-user" does not exist - ignoring rule
+<INFO> 3-Oct-2018::14:17:59.170 centares confd[2741]: confd embedded apps in phase1_delayed: []
+<INFO> 3-Oct-2018::14:17:59.173 centares confd[2741]: confd embedded apps in phase2: []
